@@ -1,4 +1,6 @@
 # Watch this video
+https://youtu.be/-Y8Oatd49qA
+
 # Ansible Installation on RHEL 8.x server
 
 1. Install Python latest version  (on Control node and Managed host)
